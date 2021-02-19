@@ -3,6 +3,7 @@ Local solar system built with Swift, ARKit, and SceneKit to be used with iOS nat
 
 ## Example
 An example of the runtime would look like [this](https://youtu.be/M58DJaG4VoU).
+
 <img src="SolarSwift.gif" />
 
 ## Images / Copyright information
